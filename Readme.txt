@@ -1,0 +1,1 @@
+My application has a hardcoded json that returns the name of all of the customers, or by their ID
